@@ -3,3 +3,5 @@ This is an application that will generate a password string based on user input 
 
 ![Screenshot](./screenshot.png)
 
+## Website Link
+[password-gen Website](http://https://vivid-green.github.io/password-gen/)
